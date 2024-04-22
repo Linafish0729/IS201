@@ -1,0 +1,48 @@
+img{
+    width:300px;
+    height: 450px;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+div.Resume {
+    text-align: center;
+    margin: 0 auto;
+}
+
+ul{
+
+    text-align: left;
+
+    display: inline-block;
+
+}
+
+ol{
+
+    text-align: left;
+
+    display: inline-block;
+}
+
+div.title {
+    text-align: center;
+    margin:0 auto;
+}
+
+div.video {
+    text-align: center;
+    margin:0 auto;
+}
+
+div.Nlink {
+    text-align: center;
+    margin:0 auto;
+}
+div.Tlink {
+    text-align: center;
+    margin:0 auto;
+}
+
