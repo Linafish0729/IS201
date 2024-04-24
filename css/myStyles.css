@@ -10,6 +10,7 @@ img{
 div.Resume {
     text-align: center;
     margin: 0 auto;
+    background-color:lightblue;
 }
 
 ul{
@@ -43,9 +44,11 @@ div.video {
 div.Nlink {
     text-align: center;
     margin:0 auto;
+    background-color:lightblue;
 }
 div.Tlink {
     text-align: center;
     margin:0 auto;
+    background-color: lightblue;
 }
 
