@@ -32,6 +32,7 @@ div.title {
     margin:0 auto;
     font-family:Arial, Helvetica, sans-serif;
     color: darkgreen;
+    background-color: lightblue;
 }
 
 div.video {
