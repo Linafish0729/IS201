@@ -39,6 +39,7 @@ div.title {
 div.video {
     text-align: center;
     margin:0 auto;
+    background-color:lightblue;
 }
 
 div.Nlink {
